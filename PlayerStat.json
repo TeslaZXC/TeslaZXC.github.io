@@ -1,0 +1,44 @@
+{
+    "players": [
+      {
+        "name": "[LG]heizy",
+        "missions": 421,
+        "kills": 1115
+      },
+      {
+        "name": "[LG]Fused88",
+        "missions": 55,
+        "kills": 60
+      },
+      {
+        "name": "[LG]Pank",
+        "missions": 60,
+        "kills": 55
+      },
+      {
+        "name": "[LG]NotSkvich",
+        "missions": 66,
+        "kills": 49
+      },
+      {
+        "name": "[LG]DON",
+        "missions": 45,
+        "kills": 45
+      },
+      {
+        "name": "[LG]k0t",
+        "missions": 43,
+        "kills": 37
+      },
+      {
+        "name": "[LG]MenMentos",
+        "missions": 24,
+        "kills": 36
+      },
+      {
+        "name": "[LG]Artyrka",
+        "missions": 30,
+        "kills": 18
+      }
+    ]
+  }
